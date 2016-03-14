@@ -9,3 +9,4 @@ The variables are:
 2. treatment, with two possible values(a and b)
 3. result, with five or six values depending on how you think of the missing value(-,16,3,2,11,1).
 
+
